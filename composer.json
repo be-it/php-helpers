@@ -1,0 +1,17 @@
+{
+    "name": "be-it/php-helpers",
+    "description": "php helpers library",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Triawarman",
+            "email": "3awarman@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "BeIt\\PhpHelpers\\": ""
+        }
+    }
+}
